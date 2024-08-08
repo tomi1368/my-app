@@ -105,3 +105,27 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.table{
+  width: 100%;
+  margin: 0 10px;
+  display: flex;
+  flex-direction: column;
+  
+  gap: 20px;
+}
+
+
+
+
+.row{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.title-container{
+  max-width: 100px;
+  text-align: center;
+}
